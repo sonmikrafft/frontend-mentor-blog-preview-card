@@ -61,10 +61,6 @@
     font-weight: 800;
   }
 
-  &__date {
-
-  }
-
   &__title {
     transition: color 200ms ease-in-out;
     cursor: pointer;
@@ -72,10 +68,6 @@
     &:hover {
       color: $yellow;
     }
-
-  }
-
-  &__description {
 
   }
 
